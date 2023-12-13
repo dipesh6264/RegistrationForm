@@ -24,7 +24,7 @@ npm start
 
 👤 **Dipesh Patidar**
 
-* Github: [@Dipesh624](https://github.com/Dipesh624)
+* Github: [@dipesh6264](https://github.com/dipesh6264)
 
 ## Show your support
 
